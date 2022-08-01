@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleAppDependencyInjection": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "SqlServiceConnectionString": "DataSource=xxx",
+        "Region": "AU"
+      }
+    }
+  }
+}
